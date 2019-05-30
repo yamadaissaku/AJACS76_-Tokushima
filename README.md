@@ -1,33 +1,16 @@
 <meta content="text/html; charset=UTF-8" http-equiv="content-type">
 
-<span class="c22">AJACS徳島 ドキュメント</span>
+<span class="c32">統合データベース講習会：AJACS徳島</span>
 
-<span class="c3"></span>
+<span class="c31">化合物データベース（Pubchem,ChEMBL）</span>
 
-<span class="c9 c44">ドキュメント作成手順</span>
+<span class="c31">&nbsp;〜化合物情報とバイオアッセイ〜</span>
 
-1.  <span class="c3">Google Documentで内容作成</span>
-2.  <span class="c3">Google Documentの”ファイル”→”形式を指定してダウンロード”で、”ウェブページ(html)”を選択する。</span>
-3.  <span class="c3">ダウンロードしたzipファイルを解凍する。</span>
-4.  <span class="c3">HTML - Markdown 変換</span>
+<span class="c24 c35"></span>
 
-1.  <span class="c7">[https://pronama.jp/md/](https://www.google.com/url?q=https://pronama.jp/md/&sa=D&ust=1559231693294000)</span>
+* <span class="c41">公益財団法人野口研究所 山田一作（やまだいっさく） </span><span class="c10 c41">[issaku@noguchi.or.jp](mailto:issaku@noguchi.or.jp)</span>
 
-1.  <span class="c3">Githubへhtmlとmdファイル、必要な画像ファイルをアップロード</span>
-
-<span class="c3"></span>
-
-<span class="c9">統合データベース講習会：AJACS徳島</span>
-
-<span class="c22">化合物データベース（Pubchem,ChEMBL）</span>
-
-<span class="c22">&nbsp;〜化合物情報とバイオアッセイ〜</span>
-
-<span class="c31"></span>
-
-* <span class="c37">公益財団法人野口研究所 山田一作（やまだいっさく） </span><span class="c7 c37">[issaku@noguchi.or.jp](mailto:issaku@noguchi.or.jp)</span>
-
-* <span class="c37">日時：2019年6月6日（木）</span>
+* <span class="c41">日時：2019年6月6日（木）</span>
 
 ---
 
@@ -35,73 +18,75 @@
 
 <span class="c3"></span>
 
-<span class="c25">1. 目次</span>
+<span class="c14">1. 目次</span>
 
-<span class="c4">2. 化合物データベース</span>
+<span class="c12 c10">2. 化合物データベース</span>
 
-<span class="c4">3. 参考サイト</span>
+<span class="c12 c10">3. 参考サイト</span>
 
-<span class="c4">4. PubChem</span>
+<span class="c12 c10">4. PubChem</span>
 
-<span class="c4">PubChemの説明</span>
+<span class="c12 c10">PubChemの説明</span>
 
-<span class="c4">PubChem CompoundとSubstanceの違い</span>
+<span class="c12 c10">PubChem CompoundとSubstanceの違い</span>
 
-<span class="c4">PubChem BioAssayとSubstance</span>
+<span class="c12 c10">PubChem BioAssayとSubstance</span>
 
-<span class="c4">PubChemへのデータ登録について</span>
+<span class="c12 c10">PubChemへのデータ登録について</span>
 
-<span class="c4">インターフェイスが今年３月に更新。</span>
+<span class="c12 c10">インターフェイスが今年３月に更新。</span>
 
-<span class="c4">ウェブブラウザを用いた検索</span>
+<span class="c12 c10">ウェブブラウザを用いた検索</span>
 
-<span class="c4">キーワード検索から：遺伝子名：ACADM</span>
+<span class="c12 c10">キーワード検索から：遺伝子名：ACADM</span>
 
-<span class="c4">URLへキーワード（遺伝子名、生物種など）を用いた検索</span>
+<span class="c12 c10">URLへキーワード（遺伝子名、生物種など）を用いた検索</span>
 
-<span class="c4">PubChem Classification Browserを使ったデータ取得</span>
+<span class="c12 c10">PubChem Classification Browserを使ったデータ取得</span>
 
-<span class="c4">5. ChEMBL</span>
+<span class="c12 c10">5. ChEMBL</span>
 
-<span class="c4">ChEMBLの説明</span>
+<span class="c12 c10">ChEMBLの説明</span>
 
-<span class="c4">ウェブブラウザを利用して</span>
+<span class="c12 c10">ウェブブラウザを利用して</span>
 
-<span class="c4">ChEMBLのサイト（https://www.ebi.ac.uk/chembl/）を開く</span>
+<span class="c12 c10">ChEMBLのサイト（https://www.ebi.ac.uk/chembl/）を開く</span>
 
-<span class="c4">概要</span>
+<span class="c12 c10">概要</span>
 
-<span class="c4">含まれるデータの俯瞰</span>
+<span class="c12 c10">含まれるデータの俯瞰</span>
 
-<span class="c4">階層</span>
+<span class="c12 c10">階層</span>
 
-<span class="c4">年代毎の分子の種類の分布</span>
+<span class="c12 c10">年代毎の分子の種類の分布</span>
 
-<span class="c4">Taxonomyによる分類</span>
+<span class="c12 c10">Taxonomyによる分類</span>
 
-<span class="c4">開発フェーズとUSAN登録</span>
+<span class="c12 c10">開発フェーズとUSAN登録</span>
 
-<span class="c4">病気のフェーズ</span>
+<span class="c12 c10">病気のフェーズ</span>
 
-<span class="c4">化合物</span>
+<span class="c12 c10">化合物</span>
 
-<span class="c4">機能の説明</span>
+<span class="c12 c10">機能の説明</span>
 
-<span class="c4">表示切り替え</span>
+<span class="c12 c10">表示切り替え</span>
 
-<span class="c4">絞り込み</span>
+<span class="c12 c10">絞り込み</span>
 
-<span class="c4">データダウンロード</span>
+<span class="c12 c10">データダウンロード</span>
 
-<span class="c4">アッセイ</span>
+<span class="c12 c10">アッセイ</span>
 
-<span class="c4">targets</span>
+<span class="c12 c10">targets</span>
 
-<span class="c4">キーワード検索</span>
+<span class="c12 c10">キーワード検索</span>
 
-<span class="c7">化合物・医薬品</span>
+<span class="c12 c10">化合物・医薬品</span>
 
-<span class="c4">遺伝子名</span>
+<span class="c12 c10">遺伝子名</span>
+
+<span class="c12 c10">付録：ドキュメント作成手順</span>
 
 <span class="c3"></span>
 
@@ -111,14 +96,14 @@
 
 <span class="c3"></span>
 
-<span class="c25">2. 化合物データベース</span>
+<span class="c14">2. 化合物データベース</span>
 =====================================
 
 * <span class="c3">AJACS筑波４での化合物データベースについての説明へ</span>
 
-* <span class="c15">[Integbioデータベースカタログ](https://www.google.com/url?q=https://integbio.jp/dbcatalog/?lang%3Dja&sa=D&ust=1559231693305000)</span>
+* <span class="c22">[Integbioデータベースカタログ](https://www.google.com/url?q=https://integbio.jp/dbcatalog/?lang%3Dja&sa=D&ust=1559232913839000)</span>
 
-* <span class="c7">[https://github.com/AJACS-training/AJACS70/tree/master/03_yamada](https://www.google.com/url?q=https://github.com/AJACS-training/AJACS70/tree/master/03_yamada%23%25E5%258C%2596%25E5%2590%2588%25E7%2589%25A9%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%2599%25E3%2583%25BC%25E3%2582%25B9&sa=D&ust=1559231693306000)</span>
+* <span class="c10">[https://github.com/AJACS-training/AJACS70/tree/master/03_yamada](https://www.google.com/url?q=https://github.com/AJACS-training/AJACS70/tree/master/03_yamada%23%25E5%258C%2596%25E5%2590%2588%25E7%2589%25A9%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%2599%25E3%2583%25BC%25E3%2582%25B9&sa=D&ust=1559232913840000)</span>
 
 <span class="c3"></span>
 
@@ -126,7 +111,7 @@
 
 <span class="c3"></span>
 
-<span class="c25">3. 参考サイト</span>
+<span class="c14">3. 参考サイト</span>
 =================================
 
 * <span class="c3">化合物の表記法やPubChemの使い方</span>
@@ -134,14 +119,14 @@
 * <span class="c3">ブラウザを用いた方法について</span>
 * <span class="c3">REST, SOAP, FTPによるデータ取得などについて</span>
 
-* <span class="c7">[https://github.com/yamadaissaku/ChemDocsJP](https://www.google.com/url?q=https://github.com/yamadaissaku/ChemDocsJP&sa=D&ust=1559231693307000)</span>
-* <span class="c7">[https://github.com/yamadaissaku/ChemInfo](https://www.google.com/url?q=https://github.com/yamadaissaku/ChemInfo&sa=D&ust=1559231693308000)</span>
+* <span class="c10">[https://github.com/yamadaissaku/ChemDocsJP](https://www.google.com/url?q=https://github.com/yamadaissaku/ChemDocsJP&sa=D&ust=1559232913841000)</span>
+* <span class="c10">[https://github.com/yamadaissaku/ChemInfo](https://www.google.com/url?q=https://github.com/yamadaissaku/ChemInfo&sa=D&ust=1559232913841000)</span>
 
 * <span class="c3">統合TV</span>
 
 * <span class="c3">PubChemを利用して化学物質やアッセイの結果を調べる 2017</span>
 
-* <span class="c7">[https://togotv.dbcls.jp/20171208.html](https://www.google.com/url?q=https://togotv.dbcls.jp/20171208.html&sa=D&ust=1559231693308000)</span>
+* <span class="c10">[https://togotv.dbcls.jp/20171208.html](https://www.google.com/url?q=https://togotv.dbcls.jp/20171208.html&sa=D&ust=1559232913842000)</span>
 
 <span class="c3"></span>
 
@@ -149,26 +134,26 @@
 
 <span class="c3"></span>
 
-<span class="c25">4. PubChem</span>
+<span class="c14">4. PubChem</span>
 ===================================
 
-<span class="c28">PubChemの説明</span>
+<span class="c19">PubChemの説明</span>
 -----------------------------------
 
-* <span class="c7">[Web検索](https://www.google.com/url?q=https://www.google.com/search?q%3Dpubchem%26oq%3Dpubchem%26aqs%3Dchrome..69i57j69i60l4j0.4321j0j4%26sourceid%3Dchrome%26ie%3DUTF-8&sa=D&ust=1559231693310000)</span>
+* <span class="c10">[Web検索](https://www.google.com/url?q=https://www.google.com/search?q%3Dpubchem%26oq%3Dpubchem%26aqs%3Dchrome..69i57j69i60l4j0.4321j0j4%26sourceid%3Dchrome%26ie%3DUTF-8&sa=D&ust=1559232913843000)</span>
 * <span class="c3">PubChem公式</span>
 
-* <span class="c7">[pubchemdocs](https://www.google.com/url?q=https://pubchemdocs.ncbi.nlm.nih.gov/&sa=D&ust=1559231693310000)</span>
+* <span class="c10">[pubchemdocs](https://www.google.com/url?q=https://pubchemdocs.ncbi.nlm.nih.gov/&sa=D&ust=1559232913843000)</span>
 
-### <span class="c12">PubChem CompoundとSubstanceの違い</span>
+### <span class="c42">PubChem CompoundとSubstanceの違い</span>
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 316.09px; height: 748.70px;">![](images/image24.png)</span>
 
-### <span class="c12">PubChem BioAssayとSubstance</span>
+### <span class="c42">PubChem BioAssayとSubstance</span>
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 680.61px; height: 393.33px;">![](images/image100.png)</span>
 
-### <span class="c12">PubChemへのデータ登録について</span>
+### <span class="c42">PubChemへのデータ登録について</span>
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 680.61px; height: 536.00px;">![](images/image98.png)</span>
 
@@ -176,10 +161,10 @@
 
 <span class="c3"></span>
 
-<span class="c28">インターフェイスが今年３月に更新。</span>
+<span class="c19">インターフェイスが今年３月に更新。</span>
 ------------------------------------------
 
-* <span class="c7">[https://pubchemdocs.ncbi.nlm.nih.gov/about](https://www.google.com/url?q=https://pubchemdocs.ncbi.nlm.nih.gov/about&sa=D&ust=1559231693312000)</span>
+* <span class="c10">[https://pubchemdocs.ncbi.nlm.nih.gov/about](https://www.google.com/url?q=https://pubchemdocs.ncbi.nlm.nih.gov/about&sa=D&ust=1559232913845000)</span>
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 529.00px; height: 83.00px;">![](images/image66.png)</span>
 
@@ -189,19 +174,19 @@
 
 <span class="c3"></span>
 
-<span class="c28">ウェブブラウザを用いた検索</span>
+<span class="c19">ウェブブラウザを用いた検索</span>
 --------------------------------------
 
-### <span>キーワード検索から：遺伝子名：</span><span class="c9">ACADM</span><span class="c12">&nbsp;</span>
+### <span>キーワード検索から：遺伝子名：</span><span class="c32">ACADM</span><span class="c42">&nbsp;</span>
 
-1.  <span class="c7">[中鎖アシル CoA デヒドロゲナーゼ (MCAD) 欠損症の病因遺伝子 ：ACADM ](https://www.google.com/url?q=https://www.genome.jp/dbget-bin/www_bget?ds_ja:H00488&sa=D&ust=1559231693314000)</span><span class="c3">について調べてみましょう。</span>
-2.  <span>PubChemのサイト（</span><span class="c7">[https://pubchem.ncbi.nlm.nih.gov/](https://www.google.com/url?q=https://pubchem.ncbi.nlm.nih.gov/&sa=D&ust=1559231693314000)</span><span class="c3">）を開きます。</span>
+1.  <span class="c10">[中鎖アシル CoA デヒドロゲナーゼ (MCAD) 欠損症の病因遺伝子 ：ACADM ](https://www.google.com/url?q=https://www.genome.jp/dbget-bin/www_bget?ds_ja:H00488&sa=D&ust=1559232913846000)</span><span class="c3">について調べてみましょう。</span>
+2.  <span>PubChemのサイト（</span><span class="c10">[https://pubchem.ncbi.nlm.nih.gov/](https://www.google.com/url?q=https://pubchem.ncbi.nlm.nih.gov/&sa=D&ust=1559232913847000)</span><span class="c3">）を開きます。</span>
 
 * <span class="c3">または、Googleなどの検索エンジンで”PubChem”と検索し、下記のリンクをクリック</span>
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 457.81px; height: 98.82px;">![](images/image6.png)</span>
 
-1.  <span>下図のようにキーワード入力欄に”</span><span class="c9">ACADM</span><span class="c3">&nbsp;”を入力すると、Compound, Gene, Taxonomyに分類された候補キーワードが示されます。</span>
+1.  <span>下図のようにキーワード入力欄に”</span><span class="c32">ACADM</span><span class="c3">&nbsp;”を入力すると、Compound, Gene, Taxonomyに分類された候補キーワードが示されます。</span>
 
 <span class="c3"></span>
 
@@ -220,9 +205,9 @@
 
 1.  <span class="c3">ここで、"Gene"をクリックすると、taxonomy IDの異なる３個の遺伝子が含まれることがわかります。</span>
 
-* <span class="c7">[9906: Homo sapiens (human) ](https://www.google.com/url?q=https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id%3D9606&sa=D&ust=1559231693318000)</span>
-* <span class="c7">[10090: Mus musculus (house mouse) ](https://www.google.com/url?q=https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id%3D10090&sa=D&ust=1559231693318000)</span>
-* <span class="c7">[10116: Rattus norvegicus (Norway rat) ](https://www.google.com/url?q=https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id%3D10116&sa=D&ust=1559231693319000)</span>
+* <span class="c10">[9906: Homo sapiens (human) ](https://www.google.com/url?q=https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id%3D9606&sa=D&ust=1559232913848000)</span>
+* <span class="c10">[10090: Mus musculus (house mouse) ](https://www.google.com/url?q=https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id%3D10090&sa=D&ust=1559232913849000)</span>
+* <span class="c10">[10116: Rattus norvegicus (Norway rat) ](https://www.google.com/url?q=https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id%3D10116&sa=D&ust=1559232913849000)</span>
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 680.61px; height: 332.00px;">![](images/image10.png)</span>
 
@@ -341,16 +326,16 @@
 
 <span class="c3"></span>
 
-### <span class="c12">URLへキーワード（遺伝子名、生物種など）を用いた検索</span>
+### <span class="c42">URLへキーワード（遺伝子名、生物種など）を用いた検索</span>
 
 * <span class="c3">以下のようなURLを用いることで、キーワードに該当するエントリーを表示させることもできます。</span>
-* <span class="c7">[https://pubchem.ncbi.nlm.nih.gov/gene/ACADM/human](https://www.google.com/url?q=https://pubchem.ncbi.nlm.nih.gov/gene/ACADM/human&sa=D&ust=1559231693327000)</span>
+* <span class="c10">[https://pubchem.ncbi.nlm.nih.gov/gene/ACADM/human](https://www.google.com/url?q=https://pubchem.ncbi.nlm.nih.gov/gene/ACADM/human&sa=D&ust=1559232913856000)</span>
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 680.61px; height: 350.67px;">![](images/image65.png)</span>
 
 <span class="c3"></span>
 
-* <span class="c7">[https://pubchem.ncbi.nlm.nih.gov/protein/P00533](https://www.google.com/url?q=https://pubchem.ncbi.nlm.nih.gov/protein/P00533&sa=D&ust=1559231693328000)</span>
+* <span class="c10">[https://pubchem.ncbi.nlm.nih.gov/protein/P00533](https://www.google.com/url?q=https://pubchem.ncbi.nlm.nih.gov/protein/P00533&sa=D&ust=1559232913857000)</span>
 
 <span class="c3"></span>
 
@@ -358,14 +343,14 @@
 
 <span class="c3"></span>
 
-<span class="c28">PubChem Classification Browserを使ったデータ取得</span>
+<span class="c19">PubChem Classification Browserを使ったデータ取得</span>
 ----------------------------------------------------------------
 
 1.  <span class="c3">下記の検索ボックス下にあるアイコンの右から二番目の"Browse Data"をクリックします。</span>
 
 * <span class="c3">または、下記のURLへ移動します。</span>
 
-* <span class="c7">[https://pubchem.ncbi.nlm.nih.gov/classification/#hid=1](https://www.google.com/url?q=https://pubchem.ncbi.nlm.nih.gov/classification/%23hid%3D1&sa=D&ust=1559231693329000)</span>
+* <span class="c10">[https://pubchem.ncbi.nlm.nih.gov/classification/#hid=1](https://www.google.com/url?q=https://pubchem.ncbi.nlm.nih.gov/classification/%23hid%3D1&sa=D&ust=1559232913858000)</span>
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 680.61px; height: 321.33px;">![](images/image103.png)</span>
 
@@ -377,7 +362,7 @@
 
 <span class="c3"></span>
 
-1.  <span>Select classificationで、”</span><span class="c17">ChEMBL</span><span class="c3">”を選択してください。</span>
+1.  <span>Select classificationで、”</span><span class="c39">ChEMBL</span><span class="c3">”を選択してください。</span>
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 680.61px; height: 353.33px;">![](images/image42.png)</span>
 
@@ -437,10 +422,10 @@
 
 <span class="c3"></span>
 
-<span class="c25">5. ChEMBL</span>
+<span class="c14">5. ChEMBL</span>
 ==================================
 
-<span class="c28">ChEMBLの説明</span>
+<span class="c19">ChEMBLの説明</span>
 ----------------------------------
 
 * <span class="c3">ChEMBLとは</span>
@@ -449,19 +434,19 @@
 
 * <span class="c3">以下のリンクも参考になります。</span>
 
-* <span class="c7">[https://github.com/Mishima-syk/py4chemoinformatics/blob/master/ch04_database.asciidoc](https://www.google.com/url?q=https://github.com/Mishima-syk/py4chemoinformatics/blob/master/ch04_database.asciidoc&sa=D&ust=1559231693335000)</span>
+* <span class="c10">[https://github.com/Mishima-syk/py4chemoinformatics/blob/master/ch04_database.asciidoc](https://www.google.com/url?q=https://github.com/Mishima-syk/py4chemoinformatics/blob/master/ch04_database.asciidoc&sa=D&ust=1559232913862000)</span>
 
 <span class="c3"></span>
 
 * <span class="c3">ChEMBL Interface Questions</span>
 
-* <span class="c7">[https://chembl.gitbook.io/chembl-interface-documentation/frequently-asked-questions/chembl-interface-questions#can-i-edit-the-query-being-used](https://www.google.com/url?q=https://chembl.gitbook.io/chembl-interface-documentation/frequently-asked-questions/chembl-interface-questions%23can-i-edit-the-query-being-used&sa=D&ust=1559231693336000)</span>
+* <span class="c10">[https://chembl.gitbook.io/chembl-interface-documentation/frequently-asked-questions/chembl-interface-questions#can-i-edit-the-query-being-used](https://www.google.com/url?q=https://chembl.gitbook.io/chembl-interface-documentation/frequently-asked-questions/chembl-interface-questions%23can-i-edit-the-query-being-used&sa=D&ust=1559232913863000)</span>
 
 <span class="c3"></span>
 
 * <span class="c3">chembl-interface-documentation</span>
 
-* <span class="c7">[https://chembl.gitbook.io/chembl-interface-documentation/](https://www.google.com/url?q=https://chembl.gitbook.io/chembl-interface-documentation/&sa=D&ust=1559231693337000)</span>
+* <span class="c10">[https://chembl.gitbook.io/chembl-interface-documentation/](https://www.google.com/url?q=https://chembl.gitbook.io/chembl-interface-documentation/&sa=D&ust=1559232913864000)</span>
 
 <span class="c3"></span>
 
@@ -471,9 +456,9 @@
 
 <span class="c3"></span>
 
-### <span class="c12">ウェブブラウザを利用して</span>
+### <span class="c42">ウェブブラウザを利用して</span>
 
-1.  #### <span>ChEMBLのサイト（</span><span class="c7">[https://www.ebi.ac.uk/chembl/](https://www.google.com/url?q=https://www.ebi.ac.uk/chembl/&sa=D&ust=1559231693338000)</span><span class="c16">）を開く</span>
+1.  #### <span>ChEMBLのサイト（</span><span class="c10">[https://www.ebi.ac.uk/chembl/](https://www.google.com/url?q=https://www.ebi.ac.uk/chembl/&sa=D&ust=1559232913864000)</span><span class="c24 c21">）を開く</span>
 
 * <span class="c3">または、Googleなどの検索エンジンで”ChEMBL”と検索し、下記のリンクをクリック</span>
 
@@ -483,11 +468,11 @@
 
 <span class="c3"></span>
 
-1.  #### <span class="c16">概要</span>
+1.  #### <span class="c24 c21">概要</span>
 
-##### <span class="c30">含まれるデータの俯瞰</span>
+##### <span class="c12 c21">含まれるデータの俯瞰</span>
 
-* <span>左図の"</span><span class="c32"><</span><span>”, "</span><span class="c32">></span><span class="c3">"をクリックすると、表示される項目が以下のようにかわります。</span>
+* <span>左図の"</span><span class="c13"><</span><span>”, "</span><span class="c13">></span><span class="c3">"をクリックすると、表示される項目が以下のようにかわります。</span>
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 644.81px; height: 723.44px;">![](images/image101.png)</span>
 
@@ -503,7 +488,7 @@
 
 <span class="c3"></span>
 
-##### <span class="c30">階層</span>
+##### <span class="c12 c21">階層</span>
 
 * <span class="c3">表示された項目をクリックすることで下の階層を見ることができます。</span>
 
@@ -520,7 +505,7 @@
 
 <span class="c3"></span>
 
-##### <span class="c30">年代毎の分子の種類の分布</span>
+##### <span class="c12 c21">年代毎の分子の種類の分布</span>
 
 * <span class="c3">マウスオーバーするとデータが表示されます。</span>
 
@@ -530,7 +515,7 @@
 
 <span class="c3"></span>
 
-##### <span class="c30">Taxonomyによる分類</span>
+##### <span class="c12 c21">Taxonomyによる分類</span>
 
 * <span class="c3">クリックして中を見ていくことができます。</span>
 
@@ -542,7 +527,7 @@
 
 <span class="c3"></span>
 
-##### <span class="c30">開発フェーズとUSAN登録</span>
+##### <span class="c12 c21">開発フェーズとUSAN登録</span>
 
 * <span class="c3">マウスオーバーして、クリックするとその情報が表示されます。</span>
 
@@ -560,7 +545,7 @@
 
 <span class="c3"></span>
 
-##### <span class="c30">病気のフェーズ</span>
+##### <span class="c12 c21">病気のフェーズ</span>
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 680.61px; height: 397.33px;">![](images/image75.png)</span>
 
@@ -576,7 +561,7 @@
 
 <span class="c3"></span>
 
-##### <span class="c30">化合物</span>
+##### <span class="c12 c21">化合物</span>
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 269.81px; height: 270.68px;">![](images/image69.png)</span>
 
@@ -592,15 +577,15 @@
 
 <span class="c3"></span>
 
-#### <span class="c16">機能の説明</span>
+#### <span class="c24 c21">機能の説明</span>
 
-##### <span class="c30">表示切り替え</span>
+##### <span class="c12 c21">表示切り替え</span>
 
 * <span class="c3">左上のTable, Card, Graph, Heatmapをクリックすると表示を切り替えることができます。</span>
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 224.00px; height: 71.00px;">![](images/image104.png)</span>
 
-##### <span class="c30">絞り込み</span>
+##### <span class="c12 c21">絞り込み</span>
 
 * <span class="c3">Filterから絞りたい項目をクリックして選択すると、データを絞り込むことができます。</span>
 
@@ -608,7 +593,7 @@
 
 * <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 103.00px; height: 52.00px;">![](images/image3.png)</span><span class="c3">で、フィルターをクリアすることができます。</span>
 
-##### <span class="c30">データダウンロード</span>
+##### <span class="c12 c21">データダウンロード</span>
 
 * <span class="c3">右上のアイコンからダウンロートする形式を選んで選択したデータをダウンロードすることができます。</span>
 
@@ -624,7 +609,7 @@
 
 <span class="c3"></span>
 
-#### <span class="c16">アッセイ</span>
+#### <span class="c21 c24">アッセイ</span>
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 269.81px; height: 270.68px;">![](images/image69.png)</span>
 
@@ -664,7 +649,7 @@
 
 <span class="c3"></span>
 
-#### <span class="c16">targets</span>
+#### <span class="c24 c21">targets</span>
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 269.81px; height: 270.68px;">![](images/image69.png)</span>
 
@@ -714,9 +699,9 @@
 
 <span class="c3"></span>
 
-### <span class="c12">キーワード検索</span>
+### <span class="c42">キーワード検索</span>
 
-#### <span class="c16">化合物・医薬品</span>
+#### <span class="c24 c21">化合物・医薬品</span>
 
 <span class="c3"></span>
 
@@ -724,7 +709,7 @@
 
 <span class="c3"></span>
 
-<span class="c7">[https://www.kegg.jp/medicus-bin/japic_med?japic_code=00067274](https://www.google.com/url?q=https://www.kegg.jp/medicus-bin/japic_med?japic_code%3D00067274&sa=D&ust=1559231693354000)</span>
+<span class="c10">[https://www.kegg.jp/medicus-bin/japic_med?japic_code=00067274](https://www.google.com/url?q=https://www.kegg.jp/medicus-bin/japic_med?japic_code%3D00067274&sa=D&ust=1559232913877000)</span>
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 680.61px; height: 392.00px;">![](images/image110.png)</span>
 
@@ -748,7 +733,7 @@
 
 <span>右下に表示される</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 175.00px; height: 33.00px;">![](images/image41.png)</span><span class="c3">をクリックすると分子の詳細ページが表示されます。</span>
 
-<span class="c7">[https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL2105760/](https://www.google.com/url?q=https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL2105760/&sa=D&ust=1559231693357000)</span>
+<span class="c10">[https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL2105760/](https://www.google.com/url?q=https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL2105760/&sa=D&ust=1559232913879000)</span>
 
 <span class="c3"></span>
 
@@ -788,9 +773,9 @@
 
 <span class="c3"></span>
 
-#### <span class="c16">遺伝子名</span>
+#### <span class="c24 c21">遺伝子名</span>
 
-* <span class="c9">MAPK6</span><span class="c3">遺伝子</span>
+* <span class="c32">MAPK6</span><span class="c3">遺伝子</span>
 
 <span class="c3">ヒトでマイトジェン活性化プロテインキナーゼ6をコードするMAPK6遺伝子</span>
 
@@ -802,7 +787,7 @@
 
 <span class="c3">からTargetsに含まれていることがわかります。</span>
 
-<span>右下に表示される</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 147.00px; height: 34.00px;">![](images/image88.png)</span><span>をクリックすると</span><span class="c7">[詳細ページ](https://www.google.com/url?q=https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL5121/&sa=D&ust=1559231693361000)</span><span class="c3">へ移動します。</span>
+<span>右下に表示される</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 147.00px; height: 34.00px;">![](images/image88.png)</span><span>をクリックすると</span><span class="c10">[詳細ページ](https://www.google.com/url?q=https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL5121/&sa=D&ust=1559232913882000)</span><span class="c3">へ移動します。</span>
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 680.61px; height: 253.33px;">![](images/image92.png)</span>
 
@@ -830,9 +815,9 @@
 
 <span class="c3"></span>
 
-<span class="c9 c43">BEI / Binding Efficiency Index / 結合効率指数</span>
+<span class="c23">BEI / Binding Efficiency Index / 結合効率指数</span>
 
-<span class="c43 c9">SEI / Surface-binding Efficiency Index / 表面結合効率指数</span>
+<span class="c23">SEI / Surface-binding Efficiency Index / 表面結合効率指数</span>
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 680.61px; height: 474.67px;">![](images/image112.png)</span>
 
@@ -849,6 +834,22 @@
 <span class="c3"></span>
 
 ---
+
+<span class="c3"></span>
+
+<span class="c3"></span>
+
+<span>付録：</span><span class="c35 c32 c40">ドキュメント作成手順</span>
+===========================================================
+
+1.  <span class="c3">Google Documentで内容作成</span>
+2.  <span class="c3">Google Documentの”ファイル”→”形式を指定してダウンロード”で、”ウェブページ(html)”を選択する。</span>
+3.  <span class="c3">ダウンロードしたzipファイルを解凍する。</span>
+4.  <span class="c3">HTML - Markdown 変換</span>
+
+1.  <span class="c10">[https://pronama.jp/md/](https://www.google.com/url?q=https://pronama.jp/md/&sa=D&ust=1559232913886000)</span>
+
+1.  <span class="c3">Githubへhtmlとmdファイル、必要な画像ファイルをアップロード</span>
 
 <span class="c3"></span>
 
