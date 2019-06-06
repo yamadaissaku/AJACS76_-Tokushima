@@ -51,7 +51,7 @@
 
 <span class="c12 c10">ウェブブラウザを利用して</span>
 
-<span class="c12 c10">ChEMBLのサイト（https://www.ebi.ac.uk/chembl/）を開く</span>
+<span class="c12 c10">ChEMBLのサイト（ https://www.ebi.ac.uk/chembl/ ）を開く</span>
 
 <span class="c12 c10">概要</span>
 
